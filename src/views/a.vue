@@ -9,7 +9,7 @@
     //  @route({
     //      path: '/shop/list1',
     //       name: 'shopList1'
-    //       })
+    //       })  
 
  
 
